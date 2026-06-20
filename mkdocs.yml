@@ -21,7 +21,6 @@ theme:
     - search.highlight
 nav:
   - Accueil: index.md
-  - A propos: fiche-projet.md
   - Les Concepts Clés (Lexique): definitions.md
   - La Puissance de la Synergie Open data + IA: combinaison-puissance.md
   - Boîte à Prompts: boite-a-outils.md
