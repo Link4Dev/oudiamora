@@ -1,23 +1,19 @@
-# 🧰 La Boîte à Prompts pour les OSC
+# 🎯 La Boîte à Prompts pour la Mobilisation Communautaire
 
-Bienvenue dans votre bibliothèque de requêtes. Pour utiliser ces outils, il vous suffit de **copier le texte dans le cadre gris**, de remplacer les informations entre crochets `[...]` par vos propres données, puis de le coller dans votre IA (Gemini, ChatGPT, etc.).
+Bienvenue dans votre espace d'ingénierie de prompts. Ces guides sont conçus pour aider les OSC à structurer leurs requêtes afin d'obtenir des résultats précis, contextualisés et immédiatement exploitables.
 
 ---
 
-## 📢 1. Simplifier un texte complexe (Inclusion & Accessibilité)
-*Idéal pour traduire un document administratif, juridique ou technique dans un langage accessible à tous (méthode Facile À Lire et à Comprendre - FALC).*
+## 📢 Axe 1 : Communication & Engagement Terrain
 
-> **Le Prompt à copier :**
-> ```text
-> Agis en tant qu'expert en communication inclusive et éducation populaire. 
-> Prends le texte technique ci-dessous et réécris-le pour qu'il soit parfaitement compréhensible par une personne n'ayant aucune compétence technique ou ayant un faible niveau d'alphabétisation.
-> 
-> Consignes strictes :
-> - Utilise des phrases très courtes (Sujet + Verbe + Complément).
-> - Supprime tout le jargon ou explique les mots difficiles par des exemples concrets du quotidien.
-> - Structure le texte avec des puces (bullet points) très claires.
-> - Adopte un ton bienveillant et encourageant.
-> 
-> Voici le texte à simplifier :
-> [Collez votre texte ici]
->
+### 1. Synthèse de réunion communautaire en message d'information WhatsApp
+> **Objectif :** Transformer un compte-rendu brut ou des notes de réunion en un message d'information court, chaleureux et engageant pour un groupe WhatsApp communautaire.
+* **Le Prompt à copier-coller :**
+```text
+Agis en tant que chargé de communication pour une organisation de la société civile. Je vais te donner les notes brutes d'une réunion communautaire. Tu dois rédiger un résumé clair, inclusif et engageant destiné à être partagé sur notre groupe WhatsApp de quartier. 
+Le message doit :
+- Commencer par une formule chaleureuse et mobilisatrice.
+- Résumer les 3 décisions clés sous forme de puces claires (utilise des émojis adaptés).
+- Rappeler la prochaine action ou date importante.
+- Garder un ton bienveillant, transparent et dynamique.
+Voici les notes : [Insérer vos notes de réunion ici]
