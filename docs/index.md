@@ -1,4 +1,4 @@
-# 🚀 Le Concept du Projet : Accélérer l'Inclusion par les Données et l'IA
+# 🚀 Le Concept du Projet : Accélérer l'Inclusion par les Données Ouvertes et l'IA
 
 Bienvenue sur le portail de notre programme pilote. Ce projet est né d'un constat simple mais puissant : pour relever les défis de l'inclusion sociale et du développement, les Organisations de la Société Civile (OSC) doivent disposer d'outils modernes, agiles et basés sur des faits indiscutables.
 
