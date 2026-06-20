@@ -1,0 +1,24 @@
+site_name: IA & Open Data pour les OSC
+site_description: Accompagner l'inclusion sociale par le numérique local.
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Mode clair
+  features:
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Accueil: index.md
