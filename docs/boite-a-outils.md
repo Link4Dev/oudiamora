@@ -17,3 +17,9 @@ Le message doit :
 - Rappeler la prochaine action ou date importante.
 - Garder un ton bienveillant, transparent et dynamique.
 Voici les notes : [Insérer vos notes de réunion ici]
+
+Conçois un script d'animation détaillé pour une réunion publique de 2 heures portant sur [indiquer le sujet, ex: la gestion des déchets / l'accès à l'eau]. L'objectif est de mobiliser les habitants et de recueillir leurs avis de manière participative. Intègre :
+- Une introduction brise-glace (15 min) pour instaurer la confiance.
+- Une phase d'écoute active en petits groupes.
+- Une technique pour gérer les temps de parole et éviter qu'une seule personne ne monopolise le débat.
+Le ton doit être participatif et accessible à tous, sans jargon technique.
