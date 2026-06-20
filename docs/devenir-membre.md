@@ -16,4 +16,4 @@ En rejoignant le programme pilote, chaque organisation s'engage à :
 
 Prêt à nous rejoindre ? Cliquez sur le lien ci-dessous pour soumettre votre demande d'adhésion officielle et présenter votre structure :
 
-👉 **[Cliquez ici pour accéder au Formulaire d'Adhésion](https://docs.google.com/forms/d/e/1FAIpQLScoWFx842nOa9VLLfm4hVETP9VPdDLAm23n9SA8YPbM3GhpMg/viewform?usp=sharing&ouid=102929613991621070900)**)**
+👉 **[https://docs.google.com/forms/d/e/1FAIpQLScoWFx842nOa9VLLfm4hVETP9VPdDLAm23n9SA8YPbM3GhpMg/viewform?usp=sharing&ouid=102929613991621070900](https://docs.google.com/forms/d/e/1FAIpQLScoWFx842nOa9VLLfm4hVETP9VPdDLAm23n9SA8YPbM3GhpMg/viewform?usp=sharing&ouid=102929613991621070900)**)**
