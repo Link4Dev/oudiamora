@@ -19,6 +19,6 @@ theme:
     - navigation.tabs
     - search.suggest
     - search.highlight
-
 nav:
   - Accueil: index.md
+- Boîte à Prompts: boite-a-outils.md
