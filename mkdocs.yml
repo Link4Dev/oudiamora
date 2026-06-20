@@ -2,6 +2,7 @@ site_name: Oudiamora, la puissance de l'IA & Open Data au service des communaut√
 site_description: Accompagner l'inclusion sociale par le num√©rique local.
 theme:
   name: material
+  logo: images/logo.jpg  # On ajoute "images/" devant le nom du fichier
   palette:
     - media: "(prefers-color-scheme: light)"
       primary: indigo
