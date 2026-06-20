@@ -21,7 +21,7 @@ theme:
     - search.highlight
 nav:
   - Accueil: index.md
-  - Le Concept du Projet: index.md
+  - Le Concept: index.md
   - Les Concepts Clés (Lexique): definitions.md
   - La Puissance de la Synergie: combinaison-puissance.md
   - Boîte à Prompts: boite-a-outils.md
