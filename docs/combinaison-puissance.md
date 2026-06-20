@@ -6,8 +6,6 @@ Pour maximiser l'impact de votre OSC, n'utilisez pas l'IA dans le vide. Nourriss
 
 ## 🧭 Le Flux de Travail (Workflow) en 3 étapes
 
-
-```text
 [ Étape 1 : Extraire ] -> Trouver un chiffre clé sur un portail Open Data.
 [ Étape 2 : Contextualiser ] -> Donner ce chiffre à l'IA avec un rôle précis.
 [ Étape 3 : Transformer ] -> Obtenir un livrable terrain (Plaidoyer, Radio, FALC).
