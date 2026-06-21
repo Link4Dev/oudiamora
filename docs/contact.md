@@ -7,7 +7,7 @@ Vous avez une question, une suggestion ou vous souhaitez collaborer avec nous ? 
 <form action="https://formsubmit.co/layekante@gmail.com" method="POST" style="max-width: 500px; background: var(--md-code-bg-color); padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
     
     <!-- Redirection automatique après l'envoi vers votre accueil -->
-    <input type="hidden" name="_next" value="https://ink4dev.github.io/oudiamora/">
+    <input type="hidden" name="_next" value="https://Link4dev.github.io/oudiamora/">
     <!-- Désactiver le captcha si vous le souhaitez (optionnel) -->
     <input type="hidden" name="_captcha" value="false">
 
