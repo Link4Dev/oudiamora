@@ -20,6 +20,11 @@ theme:
     - navigation.tabs
     - search.suggest
     - search.highlight
+  plugins:
+  - search
+  - blog:
+      blog_dir: blog
+      post_readtime: true
 nav:
   - Accueil: index.md
   - Les Concepts Clés (Lexique): definitions.md
