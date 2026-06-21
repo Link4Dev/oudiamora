@@ -1,10 +1,11 @@
 ---
 date: 2026-06-21
-authors:
-  - AK
 categories:
   - Événements
-  - Open Data & IA Genérative
+  - Open Data
+---
+
+# Lancement officiel du portail Oudiamora !
 ---
 
 # Lancement officiel du portail Oudiamora !
