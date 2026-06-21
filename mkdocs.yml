@@ -20,7 +20,7 @@ theme:
     - navigation.tabs
     - search.suggest
     - search.highlight
-  plugins:
+plugins:
   - search
   - blog:
       blog_dir: blog
