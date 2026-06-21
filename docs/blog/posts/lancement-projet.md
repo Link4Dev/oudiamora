@@ -4,7 +4,7 @@ authors:
   - AK
 categories:
   - Événements
-  - Open Data
+  - Open Data & IA Genérative
 ---
 
 # Lancement officiel du portail Oudiamora !
