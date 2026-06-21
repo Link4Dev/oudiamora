@@ -27,4 +27,8 @@ nav:
   - OSC Pilotes:
       - Membres: membres.md
       - Devenir membre: devenir-membre.md
+  - Ressources:
+      - Ressources Open Data: ressources-open-data.md
+      - IA Génératives: ia-generatives.md
+      - Cas d'usage: cas-usages.md
 
