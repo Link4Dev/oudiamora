@@ -1,0 +1,4 @@
+mkdocs==1.5.3
+mkdocs-material==9.5.3
+mkdocs-blog==1.0.0
+mkdocs-chatbot==0.2.0
