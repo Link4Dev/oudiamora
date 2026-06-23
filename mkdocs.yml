@@ -30,9 +30,9 @@ plugins:
 
 nav:
   - Accueil: index.md
-  - Les Concepts Clés (Lexique): definitions.md
   - La Puissance de la Synergie Open data + IA: combinaison-puissance.md
-  - OSC Pilotes:
+  - Les Concepts Clés (Lexique): definitions.md
+   - OSC Pilotes:
       - Membres: membres.md
       - Devenir membre: devenir-membre.md
   - Ressources:
