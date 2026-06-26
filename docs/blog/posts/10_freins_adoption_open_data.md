@@ -57,7 +57,7 @@ Mettre en ligne un portail de données ne représente que 20 % du travail. Les 8
 
 ---
 
-> 💡 **Citation Clé :** La puissance technologique n'a de sens que si elle s'exprime au cœur de nos territoires. Oudiamora redéfinit la souveraineté numérique par le prisme de l'action citoyenne locale.
+> 💡 *La puissance technologique n'a de sens que si elle s'exprime au cœur de nos territoires. Oudiamora redéfinit la souveraineté numérique par le prisme de l'action citoyenne locale.*
 
 ---
 
