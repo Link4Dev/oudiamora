@@ -4,6 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Oudiamora Blog - 10 Points de Douleur de l'Open Data</title>
+<!-- Insérez ce bloc juste après la ligne des métadonnées (Par l'équipe Oudiamora...) -->
+<div style="margin: 1.5rem 0 2.5rem 0; text-align: center;">
+    <img src="images/10freinsopendata.png" 
+         alt="Atelier numérique Oudiamora sous un baobab en zone rurale" 
+         class="article-image" 
+         style="width: 100%; max-height: 500px; object-fit: cover; border-radius: 12px; border: 1px solid var(--border); box-shadow: 0 4px 12px rgba(12, 50, 84, 0.1);">
+    <p style="font-size: 0.9rem; color: var(--text-muted); font-style: italic; margin-top: 0.5rem; text-align: left;">
+        Figure 1 : Session de co-construction et d'initiation aux outils d'IA et d'Open Data avec une communauté locale[cite: 2, 3].
+    </p>
+</div>
     <style>
         :root {
             --navy: #0c3254; /* Bleu marine profond officiel */
