@@ -3,7 +3,7 @@ layout: post
 title: "10 Points de Douleur qui Freinent l'Adoption de l'Open Data au sein des Communautés"
 date: 2026-06-26
 categories: blog
-image: "images/watermarked_img_1908992807873141380.png"
+image: "images/10freinsopendata.png"
 ---
 
 ![Atelier numérique Oudiamora sous un baobab en zone rurale](images/watermarked_img_1908992807873141380.png)
