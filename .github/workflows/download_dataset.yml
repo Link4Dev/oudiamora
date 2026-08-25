@@ -1,0 +1,32 @@
+name: Automated Dataset Download
+
+on:
+  schedule:
+    # S'exécute tous les jours à minuit UTC (ajustez selon vos besoins)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Permet de lancer le téléchargement manuellement depuis GitHub
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run download script
+        env:
+          MDC_API_KEY: ${{ secrets.MDC_API_KEY }}
+          DATASET_ID: "dataset-1" # Remplacez par votre ID de dataset
+        run: |
+          python scripts/download.py
