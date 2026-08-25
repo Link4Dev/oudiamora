@@ -27,6 +27,8 @@ jobs:
       - name: Run download script
         env:
           MDC_API_KEY: ${{ secrets.MDC_API_KEY }}
-          DATASET_ID: "dataset-1" # Remplacez par votre ID de dataset
+          DATASET_ID: "common-voice-corpus-22"
         run: |
+          python scripts/download_dataset.py
+                  M
           python scripts/download.py
